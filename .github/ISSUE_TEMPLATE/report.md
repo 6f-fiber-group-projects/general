@@ -1,9 +1,9 @@
 ---
-name: Issue
+name: Report
 about: バグ・追加機能の要望の報告をお願いします。
-title: 
-labels: 
-assignees: 
+title: ''
+labels: ''
+assignees: mmfiber
 
 ---
 
