@@ -1,38 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Issue
+about: バグ・追加機能の要望の報告をお願いします。
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 概要
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+バグもしくは追加機能の概要
+ 
+## 再現方法（バグのみ）
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+例）
+1. '...'に飛ぶ
+2. '....'をクリックする
+3. '....'までスクロールする
+4. エラー発見
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 期待する動き
 
-**Desktop (please complete the following information):**
+バグもしくは追加機能の期待される動きの詳細
+
+## スクリーンショット
+
+バグの場合は出来る限りスクリーンショットも載せてください。
+
+## デスクトップ環境
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
+## スマホ環境
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+## その他
